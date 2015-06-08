@@ -78,7 +78,7 @@ permalink: /syllabus/
 ### How?
 
 * Assignments
-* [Epics]( {{site.baseur}}/epics/ )
+* [Epics]( {{site.baseur}}/2015M217/epics/ )
 * Midterm Exams
 * Final Exam
 
