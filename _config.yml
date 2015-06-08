@@ -2,7 +2,7 @@
 title: 2015M217
 email: colliand@math.ubc.ca
 description: # this means to ignore newlines until "baseurl:"
-baseurl: "/2015m217/" # the subpath of your site, e.g. /blog/
+baseurl: "/2015m217" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: colliand
 # github_username:  colliand
