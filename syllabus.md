@@ -58,7 +58,7 @@ permalink: /syllabus/
     * **Prerequisites:** A score of 68% or higher in one of PHYS 101, PHYS 107, PHYS 153, SCIE 001 and a score of 68% or higher in one of PHYS 102, PHYS 108, PHYS 153, SCIE 001 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
     * [UBC Fizz Resources](http://www.ubcfizz.com/course-directory/math-courses/math-217-1)
 *   [Lectures]( {{site.baseurl}}/index.html )
-*   [Skills]( {{site.baseur}}/2015m217/categories/ )  <!-- including subdir is a hack. -->
+*   [Skills]( {{site.baseur}}/2015M217/categories/ )  <!-- including subdir is a hack. -->
 *   [Concepts]( {{site.baseurl}}/tags/ )
 * Text
 
@@ -78,7 +78,7 @@ permalink: /syllabus/
 ### How?
 
 * Assignments
-* [Epics]( /epics/ )
+* [Epics]( {{site.baseur}}/epics/ )
 * Midterm Exams
 * Final Exam
 
