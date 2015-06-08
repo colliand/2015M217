@@ -10,13 +10,13 @@ permalink: /tags/
 
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %}
-      <a href="/tags#{{ tag }}-ref" class='list-group-item'>
+      <a href="{{site.baseurl}}/tags#{{ tag }}-ref" class='list-group-item'>
         {{ tag }} <span class='badge'>{{ site.tags[tag].size }}</span>
       </a>
     {% endfor %}
   {% else %}
     {% for tag in tags_list %}
-      <a href="/tags#{{ tag[0] }}-ref" class='list-group-item'>
+      <a href="{{site.baseurl}}/tags#{{ tag[0] }}-ref" class='list-group-item'>
         {{ tag[0] }} <span class='badge'>{{ tag[1].size }}</span>
       </a>
     {% endfor %}
@@ -39,9 +39,9 @@ permalink: /tags/
       {% if node.title != null %}
         {% if group == null or group == node.group %}
           {% if page.url == node.url %}
-          <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+          <li class="active"><a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a></li>
           {% else %}
-          <li><a href="{{node.url}}">{{node.title}}</a></li>
+          <li><a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a></li>
           {% endif %}
         {% endif %}
       {% endif %}
