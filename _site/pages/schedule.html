@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        }
+    });
+  </script>
+
+  <title>Schedule</title>
+  <meta name="description" content="">
+
+  <link rel="stylesheet" href="/2015m217/css/main.css">
+  <link rel="canonical" href="/2015m217/pages/schedule.html">
+  <link rel="alternate" type="application/rss+xml" title="2015M217" href="/2015m217/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/2015m217/">2015M217</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+         <a class="page-link" href="/2015m217/tags/">Concepts</a>
+          <a class="page-link" href="/2015m217/categories/">Skills</a>
+         <a class="page-link" href="/2015m217/syllabus/">Syllabus</a>
+ <!--        
+          
+          <a class="page-link" href="/2015m217/categories/">Skills</a>
+          
+        
+          
+          <a class="page-link" href="/2015m217/epics/">Epics</a>
+          
+        
+          
+        
+          
+          <a class="page-link" href="/2015m217/pages/gantt.html">Gantt</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/2015m217/pages/schedule.html">Schedule</a>
+          
+        
+          
+          <a class="page-link" href="/2015m217/syllabus/">Syllabus</a>
+          
+        
+          
+          <a class="page-link" href="/2015m217/tags/">Concepts</a>
+          
+        
+          
+          <a class="page-link" href="/2015m217/pages/topics.html">Topics</a>
+          
+         -->
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Schedule</h1>
+  </header>
+
+  <article class="post-content">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/0.4.0/mermaid.full.js"></script>
+
+<link rel="stylesheet" href="/2015m217/css/mermaid.css" />
+
+<script>
+        var mermaid_config = {
+            startOnLoad:true
+        }
+        mermaid.startOnLoad = true;
+        mermaid.sequenceConfig = {"diagramMarginX":50,"diagramMarginY":10,"actorMargin":50,"width":150,"height":45,"boxMargin":10,"boxTextMargin":5,"noteMargin":10,"messageMargin":35, "mirrorActors":false};
+        mermaid.ganttConfig = {
+            titleTopMargin:25,
+            barHeight:20,
+            barGap:4,
+            topPadding:50,
+            sidePadding:75,
+            gridLineStartPadding:35,
+            fontSize:11,
+            numberSectionStyles:3,
+            axisFormatter: [
+                // Within a day
+                ["%I:%M", function (d) {
+                    return d.getHours();
+                }],
+                // Monday a week
+                ["w. %U", function (d) {
+                    return d.getDay() == 1;
+                }],
+                // Day within a week (not monday)
+                ["%a %d", function (d) {
+                    return d.getDay() && d.getDate() != 1;
+                }],
+                // within a month
+                ["%b %d", function (d) {
+                    return d.getDate() != 1;
+                }],
+                // Month
+                ["%m-%y", function (d) {
+                    return d.getMonth();
+                }]
+            ]
+        };
+</script>
+
+<h3 id="coarse-view-of-course">Coarse View of Course</h3>
+
+<!-- <div class="mermaid">
+gantt
+		vectors  2015-09-08, 12d
+		partial derivatives 2015-09-20, 26d
+		integration 2015-10-16, 14d
+		vector fields 2015-11-01, 26d
+</div> -->
+
+<div class="mermaid">
+gantt
+        dateFormat  YYYY-MM-DD
+        title 2015M217
+
+        section Preparation
+        Jekyll Site     :active, web1, 2015-05-28, 10d
+        Organize Lectures   :active, web2, after web1, 20d
+        Plan Assessments    :crit, after web1, 25d
+
+        section Class
+        Vectors            	:crit, done,    des1, 2015-09-08, 12d
+        Differentiation		      :crit, done, des2, after des1, 25d
+        Integration               :crit, done, des3, after des2, 14d
+        Vector Fields               :crit, done, des4, after des3, 35d
+
+        section Exams
+        Midterm1	:crit, mt1, 2015-10-04, 2d
+        Midterm2	:crit, mt2, 2015-11-15, 2d
+        Final		:crit, final1, 2015-12-12, 2d
+
+        section Homework
+        A          :crit, A1, 2015-09-08, 89d
+        EPIC1       : epic3, 2015-10-09, 2d
+        EPIC2       : epic4, 2015-11-12, 2d
+  
+</div>
+
+<h3 id="fine-view-of-course">Fine View of Course</h3>
+
+<div class="mermaid">
+gantt
+        dateFormat  YYYY-MM-DD
+        title 2015M217
+
+
+        section Vectors
+        Intro     :active, intro1, 2015-09-08, 1d
+        Vectors             :crit, done,  des1, 2015-09-08, 12d
+        3d                  :active, l1, after intro1, 1d
+        dot and cross product :active, l2, after l1, 2d
+        cylinders and quadric surfaces  :active, l3, after l2, 2d
+        vector functions   :active, l4, after l3, 3d
+        motion in space   :active, l5, after l4, 3d
+        
+        section Differentiation
+        Differentiation           :crit, done, des2, after des1, 25d
+        functions of several variables  :active, l6, after l5, 5d
+        limits   :active, l7, after l6, 3d
+        continuity :active, l8, after l7, 2d
+        partial derivatives  :active, l9, after l8, 5d
+        linear approximiation  :active , l10, after l9, 2d
+        chain rule  :active, l11, after l10, 4d
+        directional derivatives and the gradient :active, l12, after l11, 2d
+        Optimization :active, l13, after l12, 3d
+        Lagrange multiplies :active, l14, after l13, 2d
+        
+        section Integration
+        Integration               :crit, done, des3, after des2, 18d
+        double integrals over rectangles :active, l15, after l14, 2d
+        double integrals over regions  :active, l16, after l15, 2d
+        applications of double integrals  :active, l17, after l16, 3d
+        triple integrals   :active, l18, after l17, 5d
+        triple integrals in spherical coordinates  :active, l19, after l18, 2d
+        change of variables   :active, l20, after l19, 2d
+        
+        section Vector Fields
+        Vector Fields               :crit, done, des4, after des3, 24d
+        vector fields and line integrals    :active, l21, after l20, 2d
+        line integrals of vector fields     :active, l22, after l21, 2d
+        conservative vector fields and path independence    :active, l23, after l22, 2d
+        Green's theorem    :active, l24, after l23, 5d
+        curl and divergence    :active, l25, after l24, 3d
+        parametric surfaces    :active, l26, after l25, 2d
+        surface integrals   :active, l27, after l26, 2d
+        surface integrals of vector fields and Stokes theorem   :active, l28, after l27, 3d
+        the divergence theorem   :active, l29, after l28, 3d
+
+        section Exams
+        Midterm1    :crit, mt1, 2015-10-04, 2d
+        Midterm2    :crit, mt2, 2015-11-15, 2d
+        Final       :crit, final1, 2015-12-12, 2d
+
+        section Homework
+        A1         :crit, A1, 2015-09-10, 7d
+        A2         :crit, A2, after A1, 7d
+        A3         :crit, A3, after A2, 7d
+        A4         :crit, done, A4, after A3, 7d
+        A5         :crit, A5, after A4, 7d
+        EPIC1       :epic1, after A5, 2d
+        A6         :crit, A6, after A5, 7d
+        A7         :crit, A7, after A6, 7d
+        A8         :crit, A8, after A7, 7d
+        A9         :crit, A9, after A8, 7d
+        A10        :crit, done, A10, after A9, 7d
+        A11        :crit, A11, after A10, 7d
+        EPIC2       : epic2, after A10, 2d 
+        A12         :crit, A12, after A11, 7d  
+</div>
+
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">2015M217</h2> -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <!-- <li>2015M217</li> -->
+          <!-- <li><a href="mailto:colliand@math.ubc.ca">colliand@math.ubc.ca</a></li> -->
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+          <li>
+            <a href="https://twitter.com/colliand">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                  c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+                </svg>
+              </span>
+
+              <span class="username">colliand</span>
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text"></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
