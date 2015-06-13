@@ -71,6 +71,12 @@ gantt
         dateFormat  YYYY-MM-DD
         title 2015M217
 
+        section Administration
+        Start Course     :crit, done, admin1, 2015-09-08, 1d
+        Cr/D/F Grading Change Date    :crit, done, admin2, 2015-09-22, 1d
+        Withdrawl Data     :crit, done, admin3, 2015-10-16, 1d
+        End Course      :crit, done, admin4, 2015-12-04, 1d
+
         section Preparation
         Jekyll Site     :active, web1, 2015-05-28, 10d
         Organize Lectures   :active, web2, after web1, 20d
@@ -102,6 +108,12 @@ gantt
 gantt
         dateFormat  YYYY-MM-DD
         title 2015M217
+
+        section Administration
+        Start Course     :crit, done, admin1, 2015-09-08, 1d
+        Cr/D/F Grading Change Date    :crit, done, admin2, 2015-09-22, 1d
+        Withdrawl Data     :crit, done, admin3, 2015-10-16, 1d
+        End Course      :crit, done, admin4, 2015-12-04, 1d
 
 
         section Vectors

@@ -53,10 +53,11 @@ permalink: /syllabus/
 
 ### What?
 
-* [Math 2017: Multivariable and Vector Calcululs](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=MATH&course=217)
+* [Math 217: Multivariable and Vector Calcululs](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=MATH&course=217)
     * **Abstract:** Partial differentiation, extreme values, multiple integration, vector fields, line and surface integrals, the divergence theorem, Green's and Stokes' theorems. Intended for students in Honours Physics and Engineering Physics.
     * **Prerequisites:** A score of 68% or higher in one of PHYS 101, PHYS 107, PHYS 153, SCIE 001 and a score of 68% or higher in one of PHYS 102, PHYS 108, PHYS 153, SCIE 001 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.
     * [UBC Fizz Resources](http://www.ubcfizz.com/course-directory/math-courses/math-217-1)
+    * [2015:M217 UBC Details](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=5&dept=MATH&course=217&section=101)
 *   [Lectures]( {{site.baseurl}}/index.html )
 *   [Skills]( {{site.baseur}}/2015M217/categories/ )  <!-- including subdir is a hack. -->
 *   [Concepts]( {{site.baseurl}}/tags/ )
@@ -93,14 +94,15 @@ permalink: /syllabus/
 ***
 
 
+
 ### Coarse View of Course
 
 <!-- <div class="mermaid">
 gantt
-		vectors  2015-09-08, 12d
-		partial derivatives 2015-09-20, 26d
-		integration 2015-10-16, 14d
-		vector fields 2015-11-01, 26d
+        vectors  2015-09-08, 12d
+        partial derivatives 2015-09-20, 26d
+        integration 2015-10-16, 14d
+        vector fields 2015-11-01, 26d
 </div> -->
 
 
@@ -110,21 +112,27 @@ gantt
         dateFormat  YYYY-MM-DD
         title 2015M217
 
+        section Administration
+        Start Course     :crit, done, admin1, 2015-09-08, 1d
+        Cr/D/F Grading Change Date    :crit, done, admin2, 2015-09-22, 1d
+        Withdrawl Data     :crit, done, admin3, 2015-10-16, 1d
+        End Course      :crit, done, admin4, 2015-12-04, 1d
+
         section Preparation
         Jekyll Site     :active, web1, 2015-05-28, 10d
         Organize Lectures   :active, web2, after web1, 20d
         Plan Assessments    :crit, after web1, 25d
 
         section Class
-        Vectors            	:crit, done,    des1, 2015-09-08, 12d
-        Differentiation		      :crit, done, des2, after des1, 25d
+        Vectors             :crit, done,    des1, 2015-09-08, 12d
+        Differentiation           :crit, done, des2, after des1, 25d
         Integration               :crit, done, des3, after des2, 14d
         Vector Fields               :crit, done, des4, after des3, 35d
 
         section Exams
-        Midterm1	:crit, mt1, 2015-10-04, 2d
-        Midterm2	:crit, mt2, 2015-11-15, 2d
-        Final		:crit, final1, 2015-12-12, 2d
+        Midterm1    :crit, mt1, 2015-10-04, 2d
+        Midterm2    :crit, mt2, 2015-11-15, 2d
+        Final       :crit, final1, 2015-12-12, 2d
 
         section Homework
         A          :crit, A1, 2015-09-08, 89d
@@ -141,6 +149,12 @@ gantt
 gantt
         dateFormat  YYYY-MM-DD
         title 2015M217
+
+        section Administration
+        Start Course     :crit, done, admin1, 2015-09-08, 1d
+        Cr/D/F Grading Change Date    :crit, done, admin2, 2015-09-22, 1d
+        Withdrawl Data     :crit, done, admin3, 2015-10-16, 1d
+        End Course      :crit, done, admin4, 2015-12-04, 1d
 
 
         section Vectors
@@ -206,6 +220,7 @@ gantt
         EPIC2       : epic2, after A10, 2d 
         A12         :crit, A12, after A11, 7d  
 </div>
+
 
 
 

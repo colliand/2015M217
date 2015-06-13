@@ -5,26 +5,9 @@
     <description></description>
     <link>/2015M217/</link>
     <atom:link href="/2015M217/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jun 2015 11:36:26 -0700</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2015 11:36:26 -0700</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2015 00:03:03 -0700</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2015 00:03:03 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Linear Approximation</title>
-        <description>&lt;h2 id=&quot;linear-approximation&quot;&gt;Linear Approximation&lt;/h2&gt;
-</description>
-        <pubDate>Mon, 08 Jun 2015 11:00:21 -0700</pubDate>
-        <link>/2015M217/approximate/find%20tangent%20plane/2015/06/08/linear-approximation.html</link>
-        <guid isPermaLink="true">/2015M217/approximate/find%20tangent%20plane/2015/06/08/linear-approximation.html</guid>
-        
-        <category>tangent-plane</category>
-        
-        
-        <category>approximate</category>
-        
-        <category>find tangent plane</category>
-        
-      </item>
     
       <item>
         <title>Arc Length, Curvature, Motion in Space</title>
@@ -45,25 +28,6 @@
         <category>calculate motion in space</category>
         
         <category>visualize curves</category>
-        
-      </item>
-    
-      <item>
-        <title>Partial Derivatives and Tangent Planes</title>
-        <description>&lt;h2 id=&quot;partial-derivatives-and-tangent-planes&quot;&gt;Partial Derivatives and Tangent Planes&lt;/h2&gt;
-</description>
-        <pubDate>Sun, 07 Jun 2015 23:10:29 -0700</pubDate>
-        <link>/2015M217/calculate%20partial%20derivatives/find%20tangent%20plane/2015/06/07/partial-derivatives-and-tangent-planes.html</link>
-        <guid isPermaLink="true">/2015M217/calculate%20partial%20derivatives/find%20tangent%20plane/2015/06/07/partial-derivatives-and-tangent-planes.html</guid>
-        
-        <category>partial derivatives</category>
-        
-        <category>tangent plane</category>
-        
-        
-        <category>calculate partial derivatives</category>
-        
-        <category>find tangent plane</category>
         
       </item>
     
@@ -93,49 +57,6 @@
         <guid isPermaLink="true">/2015M217/2015/06/06/cylinders-and-quadric-surfaces.html</guid>
         
         <category>surfaces</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Limits</title>
-        <description>&lt;h2 id=&quot;limits&quot;&gt;Limits&lt;/h2&gt;
-</description>
-        <pubDate>Fri, 05 Jun 2015 00:59:40 -0700</pubDate>
-        <link>/2015M217/2015/06/05/imits.html</link>
-        <guid isPermaLink="true">/2015M217/2015/06/05/imits.html</guid>
-        
-        <category>limits</category>
-        
-        <category>functions</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Functions of Several Variables</title>
-        <description>&lt;h2 id=&quot;functions-of-several-variables&quot;&gt;Functions of Several Variables&lt;/h2&gt;
-</description>
-        <pubDate>Fri, 05 Jun 2015 00:59:40 -0700</pubDate>
-        <link>/2015M217/2015/06/05/functions-of-several-variables.html</link>
-        <guid isPermaLink="true">/2015M217/2015/06/05/functions-of-several-variables.html</guid>
-        
-        <category>functions</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Continuity</title>
-        <description>&lt;h2 id=&quot;continuity&quot;&gt;Continuity&lt;/h2&gt;
-</description>
-        <pubDate>Fri, 05 Jun 2015 00:59:38 -0700</pubDate>
-        <link>/2015M217/2015/06/05/continuity.html</link>
-        <guid isPermaLink="true">/2015M217/2015/06/05/continuity.html</guid>
-        
-        <category>continuity</category>
-        
-        <category>functions</category>
         
         
       </item>
@@ -181,6 +102,359 @@
         
         
         <category>understand space</category>
+        
+      </item>
+    
+      <item>
+        <title>Introduction</title>
+        <description>&lt;h2 id=&quot;pregame-some-highlight-footage&quot;&gt;Pregame: Some Highlight Footage&lt;/h2&gt;
+
+&lt;h3 id=&quot;pythagoras-theorem&quot;&gt;Pythagoras Theorem&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pythagorean.svg/500px-Pythagorean.svg.png&quot; alt=&quot;Pythagorean Theorem Illustrated&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/6/65/Pythag_anim.gif&quot; alt=&quot;Pythagorean Theorem Sliding Triangles&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/7/70/Pythagoras-2a.gif&quot; alt=&quot;Pythagorean Theorem Yellow Tranlastions&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;irrational-numbers&quot;&gt;Irrational Numbers&lt;/h3&gt;
+
+&lt;p&gt;Irrationality of the square root of 2: [$\sqrt{2} \neq \frac{p}{q}$] for whole numbers $p,q$.&lt;/p&gt;
+
+&lt;h3 id=&quot;golden-ratio&quot;&gt;Golden Ratio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Golden_ratio&quot;&gt;Golden Ratio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;human-accomplishments-to-date-are-spectacular&quot;&gt;Human Accomplishments to Date are Spectacular&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Hagia_Sophia&quot;&gt;Istanbul’s Hagia Sophia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/a/af/HagiaSophia_DomeVerticalPano_%28pixinn.net%29.jpg&quot; alt=&quot;Hagia Sophia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5th Century!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Roman_roads&quot;&gt;A Roman road in Pompei&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PompeiiStreet.jpg/448px-PompeiiStreet.jpg&quot; alt=&quot;Roman Road in Pompei&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;How many stones do you need to build a road that goes from Forest Hill School to Bloor and Spadina? to Edmonton?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Apollo_11&quot;&gt;Apollo 11 Moon Landing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/593px-Aldrin_Apollo_11_original.jpg&quot; alt=&quot;Apollo 11 Moon Landing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Humans went to the moon! Where next?&lt;/p&gt;
+
+&lt;h2 id=&quot;humans-must-confront-major-challenges&quot;&gt;Humans Must Confront Major Challenges&lt;/h2&gt;
+
+&lt;h3 id=&quot;human-population&quot;&gt;Human Population&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://wilderdom.com/images/WorldPopulationGraph.jpg&quot; alt=&quot;Human Population Graph&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;climate-change&quot;&gt;Climate Change&lt;/h3&gt;
+
+&lt;p&gt;Melting Ice&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Global_warming&quot;&gt;Global Warming?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nuclear-proliferation&quot;&gt;Nuclear Proliferation&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://nuclearweaponarchive.org/Usa/Tests/Baker8big.jpg&quot; alt=&quot;Nuclear Explosion&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/BAKER_test&quot;&gt;Nuclear test operations at Bikini Atoll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.math.toronto.edu/colliand/images/NuclearTestSite.png&quot; alt=&quot;Nevada Nuclear Test Site&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Nevada_test_site&quot;&gt;Nevada Test Site&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;calculus&quot;&gt;Calculus&lt;/h1&gt;
+
+&lt;h2 id=&quot;calculus-distilled&quot;&gt;Calculus Distilled&lt;/h2&gt;
+
+&lt;h3 id=&quot;area-problem&quot;&gt;Area Problem&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.math.toronto.edu/colliand/images/RedRectangle.png&quot; alt=&quot;Red Rectangle&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;slope-of-a-curve-at-a-point-problem&quot;&gt;Slope of a Curve at a Point Problem&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.math.toronto.edu/colliand/images/SlopedLines.png&quot; alt=&quot;Red Sloped Lines&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resolution-of-slope-problem&quot;&gt;Resolution of Slope Problem&lt;/h3&gt;
+
+&lt;p&gt;Slope of a curve as a limit of slopes of secant lines converging to tangent line&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.jonahgreenthal.com/calculus/lessons/mv/1.2/tansec.gif&quot; alt=&quot;Secant lines limiting to tangent line&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Secant Lines Limit onto Tangent Line&lt;/p&gt;
+
+&lt;p&gt;This idea leads us to define the slope of a curve as a limit of difference quotients:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;f&#39; (x) = \frac{df}{dx}(x) = \lim_{h\rightarrow 0} \frac{f(x+h) - f(x)}{(x+h) - x}.&lt;/script&gt;
+
+&lt;h3 id=&quot;resolution-of-area-problem&quot;&gt;Resolution of Area Problem&lt;/h3&gt;
+
+&lt;p&gt;Area Under a Curve as a Limit of Area of Fine Approximations by Rectangles&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/6/61/Riemann_sum_%28rightbox%29.gif&quot; alt=&quot;Riemann Sum Animated&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.math.toronto.edu/colliand/images/sphere_decomposed.jpg&quot; alt=&quot;Disco Ball&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fundamental Theorem of Calculus&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/e/e6/FTC_geometric.svg&quot; alt=&quot;Fundamental Theoreom of Calculus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This idea gives us a trick to often “add up” all the rectangles. Some chunk of the calculus class toolbox is learning different versions of applying this trick.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Smooth Structure on Small Scales&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Calculus:&lt;/strong&gt; A Toolbox for studying objects which behave nicely enough on small scales.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Determinism; Time Evolution; Idea of Rate&lt;/li&gt;
+  &lt;li&gt;Optimization&lt;/li&gt;
+  &lt;li&gt;Smooth Geometry&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Exploded View of Calculus Topics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.math.toronto.edu/colliand/notes/Calculus.html_files/image.png&quot; alt=&quot;Calculus Curriculum Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.math.toronto.edu/colliand/notes/MAT195.html_files/image.png&quot; alt=&quot;Calculus Curriculum Map 2&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;inventors-of-calculus&quot;&gt;Inventors of Calculus&lt;/h2&gt;
+
+&lt;p&gt;Gottfried Leibniz&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/6/6a/Gottfried_Wilhelm_von_Leibniz.jpg&quot; alt=&quot;Leibniz&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Isaac Newton&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg&quot; alt=&quot;Newton&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Isaac Newton is the most influential scientist &lt;strong&gt;ever&lt;/strong&gt;. He lived 84 years from 1643 to 1727.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Newton is regarded as the &lt;a href=&quot;http://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History&quot;&gt;2nd most influential human being in history&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1661 Entered Trinity College, Cambridge.&lt;/li&gt;
+  &lt;li&gt;1665 Discovered Binomial Series&lt;/li&gt;
+  &lt;li&gt;1665 Great Plague. Cambridge shuts down. Newton discovers the keys to the universe.&lt;/li&gt;
+  &lt;li&gt;1669 Became Lucasian Professor of Mathematics.&lt;/li&gt;
+  &lt;li&gt;1687 Publishes &lt;a href=&quot;http://books.google.com/books?id=Tm0FAAAAQAAJ&amp;amp;pg=PA90#v=onepage&amp;amp;q&amp;amp;f=false&quot;&gt;Principia Mathematica&lt;/a&gt;.
+ 	*       Newton’s Laws of Motion
+    *    Newton’s Law of Universal Gravitation&lt;/li&gt;
+  &lt;li&gt;1699-1716 &lt;a href=&quot;http://en.wikipedia.org/wiki/Newton_v._Leibniz_calculus_controversy&quot;&gt;Newton vs. Leibniz Calculus Controversy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;French mathematician Joseph-Louis Lagrange on Newton:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Newton was the greatest genius who ever lived, and once added that he was also â€œthe most fortunate, for we cannot find more than once a system of the world to establish.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Newton was rather more modest. In a letter to Robert Hooke, he wrote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If I have seen further it is by standing on the shoulders of Giants.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(Though some historians think the above quote was an attack on Hooke who was short and hunchbacked, rather than or in addition to a statement of modesty.)&lt;/p&gt;
+
+&lt;p&gt;Another Newton quote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A ranking of the most influential human beings in history.&lt;/p&gt;
+
+&lt;p&gt;Hart’s Top 10 (from the 1992 edition)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Muhammad (c.570-632) The central human figure of Islam, regarded by Muslims as the messenger and last prophet of God. Active as a social reformer, diplomat, merchant, philosopher, orator, legislator, and military leader.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Isaac_Newton&quot;&gt;Isaac Newton&lt;/a&gt; (1643-1727) English physicist, mathematician, astronomer, natural philosopher, alchemist, and theologian. His law of universal gravitation and three laws of motion laid the groundwork for classical mechanics.&lt;/li&gt;
+  &lt;li&gt;Jesus Christ (72 BC - AD 26) The central figure of Christianity, revered by Christians as the Son of God and the incarnation of God and regarded as a major prophet in the religion of Islam.&lt;/li&gt;
+  &lt;li&gt;Gautama Buddha (563 BC-483 BC) Spiritual teacher and philosopher. Founder of Buddhism.&lt;/li&gt;
+  &lt;li&gt;Confucius (551 BC-479 BC) Chinese thinker and social philosopher, whose teachings and philosophy have deeply influenced Chinese, Korean, Japanese, and Vietnamese thought and life.&lt;/li&gt;
+  &lt;li&gt;St. Paul (5-67) One of the most notable of early Christian missionaries, credited with spreading Christianity outside of Palestine.&lt;/li&gt;
+  &lt;li&gt;Cai Lun (50-121) Widely regarded as the inventor of paper and the papermaking process.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Johannes_Gutenberg&quot;&gt;Johannes Gutenberg&lt;/a&gt; (1398-1468) German printer who invented the mechanical printing press.&lt;/li&gt;
+  &lt;li&gt;Christopher Columbus (1451-1506) Italian navigator, colonizer and explorer whose voyages led to general European awareness of the American continents.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Albert_Einstein&quot;&gt;Albert Einstein&lt;/a&gt; (1879-1955) German theoretical physicist, best known for his &lt;a href=&quot;http://en.wikipedia.org/wiki/Special_theory_of_relativity&quot;&gt;theory of relativity&lt;/a&gt; and specifically mass-energy equivalence, expressed by the equation $E = mc^2$.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Historically Influential Careers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Religious or Philosophical Leaders: 1, 3, 4, 5, 6&lt;/li&gt;
+  &lt;li&gt;Scientists: 2, 10&lt;/li&gt;
+  &lt;li&gt;Paper and Printing Inventors: 7,8&lt;/li&gt;
+  &lt;li&gt;Explorer: 9&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;before-newton&quot;&gt;Before Newton&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/2/2b/Tycho_Brahe.JPG&quot; alt=&quot;Tycho Brahe&quot; /&gt;
+&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johannes_Kepler_1610.jpg/436px-Johannes_Kepler_1610.jpg&quot; alt=&quot;Johannes Kepler&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.yahoo.com/s/ap/20101119/ap_on_sc/eu_czech_danish_astronomer;_ylt=AidoYK63fwxYimVeDCZZbGUjtBAF;_ylu=X3oDMTJ1dmxybzlzBGFzc2V0Ay9hcC8yMDEwMTExOS9hcF9vbl9zYy9ldV9jemVjaF9kYW5pc2hfYXN0cm9ub21lcgRwb3MDNARzZWMDeW5fdG9tYnN0b25lBHNsawN0ZXN0c29uZGFuaXM-&quot;&gt;Brahe’s body was recently exhumed.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/2/25/Kepler-solar-system-2.png&quot; alt=&quot;Mysterium Cosmographicum&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Mysterium_Cosmographicum&quot;&gt;Kepler’s Cosmological Theory (Mysterium Cosmographicum)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/1/19/Kepler-solar-system-1.png&quot; alt=&quot;Mysterim 2&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;keplers-laws&quot;&gt;Kepler’s Laws&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kepler-second-law.svg/220px-Kepler-second-law.svg.png&quot; alt=&quot;Kepler&#39;s Laws&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kepler’s first and second law&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The orbit of every planet is an ellipse with the Sun at a focus.&lt;/li&gt;
+  &lt;li&gt;A line joining a planet and the Sun sweeps out equal areas during equal intervals of time.[1]&lt;/li&gt;
+  &lt;li&gt;The square of the orbital period of a planet is directly proportional to the cube of the semi-major axis of its orbit.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Remarks:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;a href=&quot;http://www.surendranath.org/Applets/Dynamics/Kepler/Kepler1Applet.html&quot;&gt;Kepler Applet&lt;/a&gt; provides a nice visualization.&lt;/li&gt;
+  &lt;li&gt;Kepler obtained these insights by carefully studying astronomical data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/9/98/Kepler_laws_diagram.svg&quot; alt=&quot;Kepler2&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;newtons-law-of-universal-gravitation&quot;&gt;Newton’s Law of Universal Gravitation&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NewtonsLawOfUniversalGravitation.svg/300px-NewtonsLawOfUniversalGravitation.svg.png&quot; alt=&quot;Newton&#39;s Law of Universal Gravitation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every point mass attracts every single other point mass by a force pointing along the line intersecting both points. The force is directly proportional to the product of the two masses and inversely proportional to the square of the distance between the point masses:
+&lt;script type=&quot;math/tex&quot;&gt;F = G \frac{m_1 m_2}{r^2},&lt;/script&gt;
+    where:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;$F$ is the magnitude of the gravitational force between the two point masses,&amp;lt;/li&amp;gt;&lt;/li&gt;
+  &lt;li&gt;$G$ is the gravitational constant,&amp;lt;/li&amp;gt;&lt;/li&gt;
+  &lt;li&gt;$m_1$ is the mass of the first point mass,&amp;lt;/li&amp;gt;&lt;/li&gt;
+  &lt;li&gt;$m_2$ is the mass of the second point mass, and&amp;lt;/li&amp;gt;&lt;/li&gt;
+  &lt;li&gt;$r$ is the distance between the two point masses.&amp;lt;/li&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Newton showed (and we could do it together with some preparatory work) that Kepler’s laws emerge as consequences of his universal law of gravitation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The star S2 orbiting the black hole at the center of the Milky Way.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A more recent application of these ideas involves the orbit of stars around the galactic center of the Milky Way.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/c/c1/Galactic_centre_orbits.svg&quot; alt=&quot;Central Stars Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.math.toronto.edu/colliand/images/2011orbits_animfull.gif&quot; alt=&quot;Central Stars Animated Gif&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;laplacian-determinism&quot;&gt;Laplacian Determinism&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Given for one instant an intelligence which could comprehend all the forces by which nature is animated and the respective positions of the beings which compose it, if moreover this intelligence were vast enough to submit these data to analysis, it would embrace in the same formula both the movements of the largest bodies in the universe and those of the lightest atom; to it nothing would be uncertain, and the future as the past would be present to its eyes. –Pierre-Simon Laplace&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is such a satisfying, but rather predictable, viewpoint on the dynamics of the universe. It turned out to be hubris.&lt;/p&gt;
+
+&lt;p&gt;Mathematicians studying Dynamical Systems theory (e.g. &lt;a href=&quot;http://en.wikipedia.org/wiki/Henri_Poincar%C3%A9&quot;&gt;Henri Poincaré&lt;/a&gt;) showed there are problems that have intrinsic unpredictability despite being completely deterministic! Chaos Theory&lt;/p&gt;
+
+&lt;p&gt;Newton’s law of universal gravitation is inconsistent with the constancy of the speed of light.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thought experiment:&lt;/strong&gt; Move a distant planet, Newton’s law forecasts instantaneous change of associated gravitational force.&lt;/p&gt;
+
+&lt;p&gt;But experiments have shown that light speed is constant. Nothing propagates faster than the speed of light including the force information indicating that a planet has moved.&lt;/p&gt;
+
+&lt;p&gt;These observations motivated the development of &lt;a href=&quot;http://en.wikipedia.org/wiki/General_relativity&quot;&gt;General Relativity&lt;/a&gt; by &lt;a href=&quot;http://en.wikipedia.org/wiki/Albert_Einstein&quot;&gt;Albert Einstein&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Moral: Mathematics has historically been a factory for cleverness. Therefore, you should study it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pictures-of-some-mathematicians-working-today&quot;&gt;Pictures of some mathematicians working today&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.math.utexas.edu/users/natasa/slika300.jpg&quot; alt=&quot;Natasa Pavlovic&quot; /&gt;
+&lt;img src=&quot;http://cache.boston.com/bonzai-fba/Globe_Photo/2008/04/28/1209384385_8124.jpg&quot; alt=&quot;Gigliola Staffilani&quot; /&gt;
+&lt;img src=&quot;http://people.math.gatech.edu/~gangbo/image.jpg&quot; alt=&quot;Wilfrid Gangbo&quot; /&gt;
+&lt;img src=&quot;http://graphics8.nytimes.com/images/2007/03/13/science/tao.190.1.jpg&quot; alt=&quot;Terry Tao&quot; /&gt;
+&lt;img src=&quot;http://www.math.buffalo.edu/mad/PIX/okikiolu-k.1090045.JPG&quot; alt=&quot;Kate Okikulu&quot; /&gt;
+&lt;img src=&quot;http://arrafunding.uchicago.edu/i/investigators/visan_m.jpg&quot; alt=&quot;Monica Visan&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 May 2015 00:00:00 -0700</pubDate>
+        <link>/2015M217/2015/05/29/intro.html</link>
+        <guid isPermaLink="true">/2015M217/2015/05/29/intro.html</guid>
+        
+        <category>introduction</category>
+        
+        <category>kepler</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-latex&quot; data-lang=&quot;latex&quot;&gt;&lt;span class=&quot;sb&quot;&gt;$$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\int&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; f&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; ds &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; f &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; c&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;$$&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.math.ubc.ca/~gustaf/M217/notes.php&quot;&gt;S. Gustafson’s list of topics for 2013M217&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lecture 1 (Sep. 5): vectors in 3D (12.1-12.2)&lt;/li&gt;
+  &lt;li&gt;Lecture 2 (Sep. 10): dot and cross products; lines and planes&lt;/li&gt;
+  &lt;li&gt;Lecture 3 (Sep. 11): cylinders and quadric surfaces&lt;/li&gt;
+  &lt;li&gt;Lecture 4 (Sep. 12): vectors functions, and their derivatives and integrals&lt;/li&gt;
+  &lt;li&gt;Lecture 5 (Sep. 17): arc length and curvature; motion in space&lt;/li&gt;
+  &lt;li&gt;Lecture 6 (Sep. 19): functions of several variables&lt;/li&gt;
+  &lt;li&gt;Lecture 7 (Sep. 24): limits&lt;/li&gt;
+  &lt;li&gt;Lecture 8 (Sep. 25): continuity&lt;/li&gt;
+  &lt;li&gt;Lecture 9 (Sep. 26): partial derivatives and tangent planes&lt;/li&gt;
+  &lt;li&gt;Lecture 10 (Oct. 1): linear approximation&lt;/li&gt;
+  &lt;li&gt;Lecture 11 (Oct. 2): chain rule&lt;/li&gt;
+  &lt;li&gt;Lecture 12 (Oct. 8): directional derivatives and the gradient&lt;/li&gt;
+  &lt;li&gt;Lecture 13 (Oct. 9-10): maximum and minimum values&lt;/li&gt;
+  &lt;li&gt;Lecture 14 (Oct. 15): Lagrange multipliers&lt;/li&gt;
+  &lt;li&gt;Lecture 15 (Oct. 16-17): double integrals over rectangles&lt;/li&gt;
+  &lt;li&gt;Lecture 16 (Oct. 22): double integrals over general regions&lt;/li&gt;
+  &lt;li&gt;Lecture 17 (Oct. 23): double integrals in polar coordinates&lt;/li&gt;
+  &lt;li&gt;Lecture 18 (Oct. 24): applications of double integrals; triple integrals&lt;/li&gt;
+  &lt;li&gt;Lecture 19 (Oct. 29): triple integrals in cylindrical and spherical coordinates&lt;/li&gt;
+  &lt;li&gt;Lecture 20 (Oct. 30): change of variables&lt;/li&gt;
+  &lt;li&gt;Lecture 21 (Oct. 31): vector fields and line integrals&lt;/li&gt;
+  &lt;li&gt;Lecture 22 (Nov. 5): line integrals of vector fields&lt;/li&gt;
+  &lt;li&gt;Lecture 23 (Nov. 6): conservative vector fields and path independence&lt;/li&gt;
+  &lt;li&gt;Lecture 24 (Nov. 12): Green’s theorem&lt;/li&gt;
+  &lt;li&gt;Lecture 25 (Nov. 14): curl and divergence&lt;/li&gt;
+  &lt;li&gt;Lecture 26 (Nov. 19): parametric surfaces&lt;/li&gt;
+  &lt;li&gt;Lecture 27 (Nov. 20): surface integrals&lt;/li&gt;
+  &lt;li&gt;Lecture 28 (Nov.21): surface integrals of vector fields and Stokes theorem&lt;/li&gt;
+  &lt;li&gt;Lecture 29 (Nov. 26-27): the divergence theorem&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 28 May 2015 17:47:02 -0700</pubDate>
+        <link>/2015M217/write%20code/learn%20jekyll/2015/05/28/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/2015M217/write%20code/learn%20jekyll/2015/05/28/welcome-to-jekyll.html</guid>
+        
+        <category>code</category>
+        
+        
+        <category>write code</category>
+        
+        <category>learn jekyll</category>
         
       </item>
     

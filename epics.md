@@ -10,7 +10,7 @@ permalink: /epics/
 * Straight Line Motion in Spherical Coordinates
 * Geodesics and Calculus of Variations
 * Maxwell’s Equations and Differential Forms
-* Ginzburg-Landau Vortices
+* Vortices
 * Inverse and Implicit Function Theorems
 * Linear PDE and Fourier Series
 * Fluid Dynamics
