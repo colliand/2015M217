@@ -5,18 +5,45 @@
     <description></description>
     <link>/2015M217/</link>
     <atom:link href="/2015M217/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jun 2015 00:03:03 -0700</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2015 00:03:03 -0700</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2015 21:19:23 -0700</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2015 21:19:23 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Arc Length, Curvature, Motion in Space</title>
-        <description>&lt;h2 id=&quot;arc-length-curvature-motion-in-space&quot;&gt;Arc Length, Curvature, Motion in Space&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;arc-length&quot;&gt;Arc Length&lt;/h2&gt;
 
+&lt;p&gt;What is the &lt;code&gt;arc length&lt;/code&gt; of a space curve
+&lt;script type=&quot;math/tex&quot;&gt;\mathcal{C} = [ {\bf{r}} (t) ~| ~t \in I] \subset {\mathbb{R}}^3&lt;/script&gt;
+where ${\bf{r}}$ is the vector function ${\bf{r}} = \langle f(t), g(t), h(t) \rangle$ ?&lt;/p&gt;
+
+&lt;p&gt;Definition: &lt;code&gt;arc length&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Examples&lt;/p&gt;
+
+&lt;p&gt;Parametrizations&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;arc length parametrization&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;curvature&quot;&gt;Curvature&lt;/h2&gt;
+
+&lt;p&gt;Definition: &lt;code&gt;curvature&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Intuition&lt;/p&gt;
+
+&lt;p&gt;Examples&lt;/p&gt;
+
+&lt;h2 id=&quot;motion-in-space&quot;&gt;Motion in Space&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;velocity&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ascceleration&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;code&gt;Frenet Frame&lt;/code&gt;)&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/calculate%20motion%20in%20space/visualize%20curves/2015/06/08/arc-length-and-curvature-in-space.html</link>
-        <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/visualize%20curves/2015/06/08/arc-length-and-curvature-in-space.html</guid>
+        <link>/2015M217/calculate%20motion%20in%20space/2015/06/08/arc-length-and-curvature-in-space.html</link>
+        <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/2015/06/08/arc-length-and-curvature-in-space.html</guid>
         
         <category>arc-length</category>
         
@@ -27,37 +54,85 @@
         
         <category>calculate motion in space</category>
         
-        <category>visualize curves</category>
-        
       </item>
     
       <item>
         <title>Vector Functions and their Derivatives and Integrals</title>
-        <description>&lt;h2 id=&quot;vector-functions-and-their-derivatives-and-integrals&quot;&gt;Vector Functions and their Derivatives and Integrals&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;vector-functions&quot;&gt;Vector Functions&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;vector function&lt;/code&gt;&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{r}(t)} = \langle f(t), g(t), h(t) \rangle = f(t){\bf{i}} + g(t) {\bf{j}} + h(t) {\bf{k}}&lt;/script&gt;
+
+&lt;p&gt;How do we do calculus on vector functions? We have to rebuild it.&lt;/p&gt;
+
+&lt;h3 id=&quot;limits&quot;&gt;Limits&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;limit of a vector function&lt;/code&gt;&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\lim_{t \rightarrow a} {\bf{r}}(t)&lt;/script&gt;
+
+&lt;h3 id=&quot;continuity&quot;&gt;Continuity&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;continuity of a vector function&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;space-curves&quot;&gt;Space curves&lt;/h3&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\mathcal{C} = [ {\bf{r}} (t) ~| ~t \in I] \subset {\mathbb{R}}^3&lt;/script&gt;
+
+&lt;p&gt;&lt;code&gt;parametric equations&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;examples&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;derivatives-of-vector-functions&quot;&gt;Derivatives of Vector Functions&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;tangent line&lt;/code&gt; to $\mathcal{C}$ at ${\bf{r}}(a)$.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;unit tangent&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;integrals-of-vector-functions&quot;&gt;Integrals of Vector Functions&lt;/h2&gt;
 </description>
         <pubDate>Sun, 07 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/calculate%20motion%20in%20space/visualize%20curves/2015/06/07/vector-functions-derivatives-integrals.html</link>
-        <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/visualize%20curves/2015/06/07/vector-functions-derivatives-integrals.html</guid>
+        <link>/2015M217/calculate%20motion%20in%20space/2015/06/07/vector-functions-derivatives-integrals.html</link>
+        <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/2015/06/07/vector-functions-derivatives-integrals.html</guid>
         
         <category>vectors</category>
         
         
         <category>calculate motion in space</category>
         
-        <category>visualize curves</category>
-        
       </item>
     
       <item>
         <title>Cylinders and Quadric Surfaces</title>
-        <description>&lt;h2 id=&quot;cylinders-and-quadric-surfaces&quot;&gt;Cylinders and Quadric Surfaces&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;cylinders&quot;&gt;Cylinders&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;cylinder&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;A surface consisting of lines that are all parallel to a given line and pass through a given curve in a plane.&lt;/p&gt;
+
+&lt;p&gt;Example: $[ (x,y,z) \in \mathbb{R}^3: x^2 + y^2 = 1 ]$&lt;/p&gt;
+
+&lt;p&gt;Example: $[ (x,y,z) \in \mathbb{R}^3: z = x^2]$&lt;/p&gt;
+
+&lt;h2 id=&quot;quadric-surfaces&quot;&gt;Quadric Surfaces&lt;/h2&gt;
+
+&lt;h2 id=&quot;surfaces&quot;&gt;Surfaces&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;surface&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/2015/06/06/cylinders-and-quadric-surfaces.html</link>
-        <guid isPermaLink="true">/2015M217/2015/06/06/cylinders-and-quadric-surfaces.html</guid>
+        <link>/2015M217/visualize%20surfaces/understand%20space/2015/06/06/cylinders-and-quadric-surfaces.html</link>
+        <guid isPermaLink="true">/2015M217/visualize%20surfaces/understand%20space/2015/06/06/cylinders-and-quadric-surfaces.html</guid>
+        
+        <category>cylinders</category>
         
         <category>surfaces</category>
         
+        
+        <category>visualize surfaces</category>
+        
+        <category>understand space</category>
         
       </item>
     
@@ -65,15 +140,31 @@
         <title>Dot and Cross Product</title>
         <description>&lt;h2 id=&quot;dot-product&quot;&gt;Dot Product&lt;/h2&gt;
 
+&lt;p&gt;&lt;code&gt;dot product&lt;/code&gt;, &lt;code&gt;scalar product&lt;/code&gt;&lt;/p&gt;
+
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{a}} = (a_1, a_2, a_3)&lt;/script&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{b}} = (b_1, b_2, b_3)&lt;/script&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{a}} \cdot {\bf{b}} = a_1 b_1 + a_2 b_2 + a_3 b_3&lt;/script&gt;
 
+&lt;h3 id=&quot;properties-of-the-dot-product&quot;&gt;Properties of the Dot Product&lt;/h3&gt;
+
+&lt;h3 id=&quot;geometry-of-the-dot-product&quot;&gt;Geometry of the Dot Product&lt;/h3&gt;
+
 &lt;h2 id=&quot;cross-product&quot;&gt;Cross Product&lt;/h2&gt;
 
+&lt;p&gt;&lt;code&gt;cross product&lt;/code&gt;&lt;/p&gt;
+
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{a}} \times {\bf{b}}&lt;/script&gt;
+
+&lt;h3 id=&quot;properties-of-the-cross-product&quot;&gt;Properties of the Cross Product&lt;/h3&gt;
+
+&lt;h3 id=&quot;geometry-of-the-cross-product&quot;&gt;Geometry of the Cross Product&lt;/h3&gt;
+
+&lt;p&gt;(&lt;code&gt;differential forms&lt;/code&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;equations-of-lines-and-planes&quot;&gt;Equations of Lines and Planes&lt;/h2&gt;
 </description>
         <pubDate>Fri, 05 Jun 2015 00:00:00 -0700</pubDate>
         <link>/2015M217/multiply%20vectors/find%20tangent%20plane/2015/06/05/dot-and-cross-product.html</link>
@@ -82,6 +173,8 @@
         <category>dot product</category>
         
         <category>cross product</category>
+        
+        <category>tangent plane</category>
         
         
         <category>multiply vectors</category>
@@ -92,13 +185,39 @@
     
       <item>
         <title>Vectors in 3d</title>
-        <description>&lt;p&gt;Vectors ${\bf{x}} = (x_1, x_2, x_3)$.&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;$\mathbb{R}^3$&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Distance formula&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sphere&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Vectors ${\bf{x}} = (x_1, x_2, x_3)$.&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;magnitude&lt;/li&gt;
+      &lt;li&gt;direction&lt;/li&gt;
+      &lt;li&gt;vector addition&lt;/li&gt;
+      &lt;li&gt;${\bf{0}}$ vector&lt;/li&gt;
+      &lt;li&gt;scalar multiplication&lt;/li&gt;
+      &lt;li&gt;standard basis, unit vectors&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Thu, 04 Jun 2015 00:00:00 -0700</pubDate>
         <link>/2015M217/understand%20space/2015/06/04/vectors-in-3d.html</link>
         <guid isPermaLink="true">/2015M217/understand%20space/2015/06/04/vectors-in-3d.html</guid>
         
         <category>vectors</category>
+        
+        <category>motion in space</category>
+        
+        <category>curves in space</category>
         
         
         <category>understand space</category>
@@ -386,75 +505,10 @@
         <link>/2015M217/2015/05/29/intro.html</link>
         <guid isPermaLink="true">/2015M217/2015/05/29/intro.html</guid>
         
-        <category>introduction</category>
+        <category>gravity</category>
         
-        <category>kepler</category>
+        <category>history</category>
         
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-latex&quot; data-lang=&quot;latex&quot;&gt;&lt;span class=&quot;sb&quot;&gt;$$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\int&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; f&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; ds &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; f &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt; c&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;$$&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.math.ubc.ca/~gustaf/M217/notes.php&quot;&gt;S. Gustafson’s list of topics for 2013M217&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lecture 1 (Sep. 5): vectors in 3D (12.1-12.2)&lt;/li&gt;
-  &lt;li&gt;Lecture 2 (Sep. 10): dot and cross products; lines and planes&lt;/li&gt;
-  &lt;li&gt;Lecture 3 (Sep. 11): cylinders and quadric surfaces&lt;/li&gt;
-  &lt;li&gt;Lecture 4 (Sep. 12): vectors functions, and their derivatives and integrals&lt;/li&gt;
-  &lt;li&gt;Lecture 5 (Sep. 17): arc length and curvature; motion in space&lt;/li&gt;
-  &lt;li&gt;Lecture 6 (Sep. 19): functions of several variables&lt;/li&gt;
-  &lt;li&gt;Lecture 7 (Sep. 24): limits&lt;/li&gt;
-  &lt;li&gt;Lecture 8 (Sep. 25): continuity&lt;/li&gt;
-  &lt;li&gt;Lecture 9 (Sep. 26): partial derivatives and tangent planes&lt;/li&gt;
-  &lt;li&gt;Lecture 10 (Oct. 1): linear approximation&lt;/li&gt;
-  &lt;li&gt;Lecture 11 (Oct. 2): chain rule&lt;/li&gt;
-  &lt;li&gt;Lecture 12 (Oct. 8): directional derivatives and the gradient&lt;/li&gt;
-  &lt;li&gt;Lecture 13 (Oct. 9-10): maximum and minimum values&lt;/li&gt;
-  &lt;li&gt;Lecture 14 (Oct. 15): Lagrange multipliers&lt;/li&gt;
-  &lt;li&gt;Lecture 15 (Oct. 16-17): double integrals over rectangles&lt;/li&gt;
-  &lt;li&gt;Lecture 16 (Oct. 22): double integrals over general regions&lt;/li&gt;
-  &lt;li&gt;Lecture 17 (Oct. 23): double integrals in polar coordinates&lt;/li&gt;
-  &lt;li&gt;Lecture 18 (Oct. 24): applications of double integrals; triple integrals&lt;/li&gt;
-  &lt;li&gt;Lecture 19 (Oct. 29): triple integrals in cylindrical and spherical coordinates&lt;/li&gt;
-  &lt;li&gt;Lecture 20 (Oct. 30): change of variables&lt;/li&gt;
-  &lt;li&gt;Lecture 21 (Oct. 31): vector fields and line integrals&lt;/li&gt;
-  &lt;li&gt;Lecture 22 (Nov. 5): line integrals of vector fields&lt;/li&gt;
-  &lt;li&gt;Lecture 23 (Nov. 6): conservative vector fields and path independence&lt;/li&gt;
-  &lt;li&gt;Lecture 24 (Nov. 12): Green’s theorem&lt;/li&gt;
-  &lt;li&gt;Lecture 25 (Nov. 14): curl and divergence&lt;/li&gt;
-  &lt;li&gt;Lecture 26 (Nov. 19): parametric surfaces&lt;/li&gt;
-  &lt;li&gt;Lecture 27 (Nov. 20): surface integrals&lt;/li&gt;
-  &lt;li&gt;Lecture 28 (Nov.21): surface integrals of vector fields and Stokes theorem&lt;/li&gt;
-  &lt;li&gt;Lecture 29 (Nov. 26-27): the divergence theorem&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 28 May 2015 17:47:02 -0700</pubDate>
-        <link>/2015M217/write%20code/learn%20jekyll/2015/05/28/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/2015M217/write%20code/learn%20jekyll/2015/05/28/welcome-to-jekyll.html</guid>
-        
-        <category>code</category>
-        
-        
-        <category>write code</category>
-        
-        <category>learn jekyll</category>
         
       </item>
     

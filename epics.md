@@ -14,3 +14,5 @@ permalink: /epics/
 * Inverse and Implicit Function Theorems
 * Linear PDE and Fourier Series
 * Fluid Dynamics
+
+
