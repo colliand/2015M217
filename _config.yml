@@ -10,7 +10,7 @@ twitter_username: colliand
 # Build settings
 markdown: kramdown
 timezone: America/Vancouver
-highlighter: null
+highlighter: pygments
 
 
 
