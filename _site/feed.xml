@@ -5,8 +5,8 @@
     <description></description>
     <link>/2015M217/</link>
     <atom:link href="/2015M217/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Jul 2015 21:19:23 -0700</pubDate>
-    <lastBuildDate>Sat, 04 Jul 2015 21:19:23 -0700</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2015 11:14:40 -0700</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2015 11:14:40 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -64,7 +64,15 @@ where ${\bf{r}}$ is the vector function ${\bf{r}} = \langle f(t), g(t), h(t) \ra
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{r}(t)} = \langle f(t), g(t), h(t) \rangle = f(t){\bf{i}} + g(t) {\bf{j}} + h(t) {\bf{k}}&lt;/script&gt;
 
-&lt;p&gt;How do we do calculus on vector functions? We have to rebuild it.&lt;/p&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{x}(t)} = \langle x^1 (t), x^2(t), x^3(t), \dots, x^n(t) \rangle&lt;/script&gt;
+
+&lt;p&gt;How do we do calculus on vector functions? We think it through and rebuild calculus for vector functions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Limits and continuity&lt;/li&gt;
+  &lt;li&gt;Derivatives&lt;/li&gt;
+  &lt;li&gt;Integratls&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;limits&quot;&gt;Limits&lt;/h3&gt;
 
@@ -83,6 +91,16 @@ where ${\bf{r}}$ is the vector function ${\bf{r}} = \langle f(t), g(t), h(t) \ra
 &lt;p&gt;&lt;code&gt;parametric equations&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;examples&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://wwejubwfy.s3.amazonaws.com/FourthNotebook-2015-07-05-01-17-42.jpg&quot; alt=&quot;spiral&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Parametric Equations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;$r (z) = z^2 + 1$&lt;/li&gt;
+  &lt;li&gt;x = r * np.sin(theta )&lt;/li&gt;
+  &lt;li&gt;y = r * np.cos(theta)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;derivatives-of-vector-functions&quot;&gt;Derivatives of Vector Functions&lt;/h2&gt;
 
