@@ -5,8 +5,8 @@
     <description></description>
     <link>/2015M217/</link>
     <atom:link href="/2015M217/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Aug 2015 17:39:03 -0700</pubDate>
-    <lastBuildDate>Sun, 02 Aug 2015 17:39:03 -0700</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2015 17:41:11 -0700</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2015 17:41:11 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -30,57 +30,7 @@
     
       <item>
         <title>Vector Functions and their Derivatives and Integrals</title>
-        <description>&lt;h2 id=&quot;vector-functions&quot;&gt;Vector Functions&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;vector function&lt;/code&gt;&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{r}(t)} = \langle f(t), g(t), h(t) \rangle = f(t){\bf{i}} + g(t) {\bf{j}} + h(t) {\bf{k}}&lt;/script&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{x}(t)} = \langle x^1 (t), x^2(t), x^3(t), \dots, x^n(t) \rangle&lt;/script&gt;
-
-&lt;p&gt;How do we do calculus on vector functions? We think it through and rebuild calculus for vector functions:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Limits and continuity&lt;/li&gt;
-  &lt;li&gt;Derivatives&lt;/li&gt;
-  &lt;li&gt;Integratls&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;limits&quot;&gt;Limits&lt;/h3&gt;
-
-&lt;p&gt;&lt;code&gt;limit of a vector function&lt;/code&gt;&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\lim_{t \rightarrow a} {\bf{r}}(t)&lt;/script&gt;
-
-&lt;h3 id=&quot;continuity&quot;&gt;Continuity&lt;/h3&gt;
-
-&lt;p&gt;&lt;code&gt;continuity of a vector function&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;space-curves&quot;&gt;Space curves&lt;/h3&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\mathcal{C} = [ {\bf{r}} (t) ~| ~t \in I] \subset {\mathbb{R}}^3&lt;/script&gt;
-
-&lt;p&gt;&lt;code&gt;parametric equations&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;examples&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://wwejubwfy.s3.amazonaws.com/FourthNotebook-2015-07-05-01-17-42.jpg&quot; alt=&quot;spiral&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Parametric Equations:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;$r (z) = z^2 + 1$&lt;/li&gt;
-  &lt;li&gt;x = r * np.sin(theta )&lt;/li&gt;
-  &lt;li&gt;y = r * np.cos(theta)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;derivatives-of-vector-functions&quot;&gt;Derivatives of Vector Functions&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;tangent line&lt;/code&gt; to $\mathcal{C}$ at ${\bf{r}}(a)$.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;unit tangent&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;integrals-of-vector-functions&quot;&gt;Integrals of Vector Functions&lt;/h2&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/vector-functions.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Jun 2015 00:00:00 -0700</pubDate>
         <link>/2015M217/calculate%20motion%20in%20space/2015/06/07/vector-functions-derivatives-integrals.html</link>
@@ -95,21 +45,7 @@
     
       <item>
         <title>Cylinders and Quadric Surfaces</title>
-        <description>&lt;h2 id=&quot;cylinders&quot;&gt;Cylinders&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;cylinder&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;A surface consisting of lines that are all parallel to a given line and pass through a given curve in a plane.&lt;/p&gt;
-
-&lt;p&gt;Example: $[ (x,y,z) \in \mathbb{R}^3: x^2 + y^2 = 1 ]$&lt;/p&gt;
-
-&lt;p&gt;Example: $[ (x,y,z) \in \mathbb{R}^3: z = x^2]$&lt;/p&gt;
-
-&lt;h2 id=&quot;quadric-surfaces&quot;&gt;Quadric Surfaces&lt;/h2&gt;
-
-&lt;h2 id=&quot;surfaces&quot;&gt;Surfaces&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;surface&lt;/code&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/cylinders-quadratic-surfaces.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Jun 2015 00:00:00 -0700</pubDate>
         <link>/2015M217/visualize%20surfaces/understand%20space/2015/06/06/cylinders-and-quadric-surfaces.html</link>
