@@ -5,8 +5,8 @@
     <description></description>
     <link>/2015M217/</link>
     <atom:link href="/2015M217/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Aug 2015 16:50:50 -0700</pubDate>
-    <lastBuildDate>Sun, 02 Aug 2015 16:50:50 -0700</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2015 17:23:14 -0700</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2015 17:23:14 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -45,7 +45,7 @@ where ${\bf{r}}$ is the vector function ${\bf{r}} = \langle f(t), g(t), h(t) \ra
         <link>/2015M217/calculate%20motion%20in%20space/2015/06/08/arc-length-and-curvature-in-space.html</link>
         <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/2015/06/08/arc-length-and-curvature-in-space.html</guid>
         
-        <category>arc-length</category>
+        <category>arc length</category>
         
         <category>curvature</category>
         
@@ -155,65 +155,22 @@ where ${\bf{r}}$ is the vector function ${\bf{r}} = \langle f(t), g(t), h(t) \ra
       </item>
     
       <item>
-        <title>Dot and Cross Product</title>
-        <description>&lt;h2 id=&quot;dot-product&quot;&gt;Dot Product&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;dot product&lt;/code&gt;, &lt;code&gt;scalar product&lt;/code&gt;&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{a}} = (a_1, a_2, a_3)&lt;/script&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{b}} = (b_1, b_2, b_3)&lt;/script&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{a}} \cdot {\bf{b}} = a_1 b_1 + a_2 b_2 + a_3 b_3&lt;/script&gt;
-
-&lt;h3 id=&quot;properties-of-the-dot-product&quot;&gt;Properties of the Dot Product&lt;/h3&gt;
-
-&lt;h3 id=&quot;geometry-of-the-dot-product&quot;&gt;Geometry of the Dot Product&lt;/h3&gt;
-
-&lt;h2 id=&quot;cross-product&quot;&gt;Cross Product&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;cross product&lt;/code&gt;&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;{\bf{a}} \times {\bf{b}}&lt;/script&gt;
-
-&lt;h3 id=&quot;properties-of-the-cross-product&quot;&gt;Properties of the Cross Product&lt;/h3&gt;
-
-&lt;h3 id=&quot;geometry-of-the-cross-product&quot;&gt;Geometry of the Cross Product&lt;/h3&gt;
-
-&lt;p&gt;(&lt;code&gt;differential forms&lt;/code&gt;)&lt;/p&gt;
-
-&lt;h2 id=&quot;equations-of-lines-and-planes&quot;&gt;Equations of Lines and Planes&lt;/h2&gt;
-</description>
-        <pubDate>Fri, 05 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/multiply%20vectors/find%20tangent%20plane/2015/06/05/dot-and-cross-product.html</link>
-        <guid isPermaLink="true">/2015M217/multiply%20vectors/find%20tangent%20plane/2015/06/05/dot-and-cross-product.html</guid>
-        
-        <category>dot product</category>
-        
-        <category>cross product</category>
-        
-        <category>tangent plane</category>
-        
-        
-        <category>multiply vectors</category>
-        
-        <category>find tangent plane</category>
-        
-      </item>
-    
-      <item>
-        <title>Vectors in 3d</title>
-        <description>&lt;p&gt;notebook (fix link)&lt;/p&gt;
+        <title>Vectors in Space</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/vectors-in-space.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/understand%20space/2015/06/04/vectors-in-3d.html</link>
-        <guid isPermaLink="true">/2015M217/understand%20space/2015/06/04/vectors-in-3d.html</guid>
+        <link>/2015M217/understand%20space/2015/06/04/vectors-in-space.html</link>
+        <guid isPermaLink="true">/2015M217/understand%20space/2015/06/04/vectors-in-space.html</guid>
         
         <category>vectors</category>
         
         <category>motion in space</category>
         
         <category>curves in space</category>
+        
+        <category>dot product</category>
+        
+        <category>cross product</category>
         
         
         <category>understand space</category>
