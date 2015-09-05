@@ -118,11 +118,11 @@ gantt
         Withdrawl Data     :crit, done, admin3, 2015-10-16, 1d
         End Course      :crit, done, admin4, 2015-12-04, 1d
 
-        section Preparation
+       <!--  section Preparation
         Jekyll Site     :active, web1, 2015-05-28, 10d
         Organize Lectures   :active, web2, after web1, 20d
         Plan Assessments    :crit, after web1, 25d
-        Jupyter Notebooks   :active, 2015-08-02, 10d
+        Jupyter Notebooks   :active, 2015-08-02, 10d -->
 
         section Class
         Vectors             :crit, done,    des1, 2015-09-08, 12d
