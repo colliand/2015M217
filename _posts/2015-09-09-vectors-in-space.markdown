@@ -7,4 +7,4 @@ categories: [understand space]
 
 ---
 
-[notebook](http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/vectors-in-space.ipynb)
+[notebook](http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/01-vectors-in-space.ipynb)
