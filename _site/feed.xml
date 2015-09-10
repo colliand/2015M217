@@ -5,85 +5,9 @@
     <description></description>
     <link>/2015M217/</link>
     <atom:link href="/2015M217/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Sep 2015 08:11:15 -0700</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 08:11:15 -0700</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2015 08:21:09 -0700</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2015 08:21:09 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>Arc Length, Curvature, Motion in Space</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/arc-length-curvature-motion.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/calculate%20motion%20in%20space/2015/09/01/04-arc-length-and-curvature-in-space.html</link>
-        <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/2015/09/01/04-arc-length-and-curvature-in-space.html</guid>
-        
-        <category>arc length</category>
-        
-        <category>curvature</category>
-        
-        <category>motion in space</category>
-        
-        
-        <category>calculate motion in space</category>
-        
-      </item>
-    
-      <item>
-        <title>Vector Functions and their Derivatives and Integrals</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/vector-functions.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/calculate%20motion%20in%20space/2015/09/01/03-vector-functions-derivatives-integrals.html</link>
-        <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/2015/09/01/03-vector-functions-derivatives-integrals.html</guid>
-        
-        <category>vectors</category>
-        
-        
-        <category>calculate motion in space</category>
-        
-      </item>
-    
-      <item>
-        <title>Cylinders and Quadric Surfaces</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/cylinders-quadratic-surfaces.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/visualize%20surfaces/understand%20space/2015/09/01/02-cylinders-and-quadric-surfaces.html</link>
-        <guid isPermaLink="true">/2015M217/visualize%20surfaces/understand%20space/2015/09/01/02-cylinders-and-quadric-surfaces.html</guid>
-        
-        <category>cylinders</category>
-        
-        <category>surfaces</category>
-        
-        
-        <category>visualize surfaces</category>
-        
-        <category>understand space</category>
-        
-      </item>
-    
-      <item>
-        <title>Vectors in Space</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/vectors-in-space.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/understand%20space/2015/09/01/01-vectors-in-space.html</link>
-        <guid isPermaLink="true">/2015M217/understand%20space/2015/09/01/01-vectors-in-space.html</guid>
-        
-        <category>vectors</category>
-        
-        <category>motion in space</category>
-        
-        <category>curves in space</category>
-        
-        <category>dot product</category>
-        
-        <category>cross product</category>
-        
-        
-        <category>understand space</category>
-        
-      </item>
     
       <item>
         <title>Introduction</title>
@@ -362,14 +286,90 @@
 &lt;img src=&quot;http://www.math.buffalo.edu/mad/PIX/okikiolu-k.1090045.JPG&quot; alt=&quot;Kate Okikulu&quot; /&gt;
 &lt;img src=&quot;http://arrafunding.uchicago.edu/i/investigators/visan_m.jpg&quot; alt=&quot;Monica Visan&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
-        <link>/2015M217/2015/09/01/00-intro.html</link>
-        <guid isPermaLink="true">/2015M217/2015/09/01/00-intro.html</guid>
+        <pubDate>Tue, 08 Sep 2015 00:00:00 -0700</pubDate>
+        <link>/2015M217/2015/09/08/00-intro.html</link>
+        <guid isPermaLink="true">/2015M217/2015/09/08/00-intro.html</guid>
         
         <category>gravity</category>
         
         <category>history</category>
         
+        
+      </item>
+    
+      <item>
+        <title>Arc Length, Curvature, Motion in Space</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/arc-length-curvature-motion.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
+        <link>/2015M217/calculate%20motion%20in%20space/2015/09/01/04-arc-length-and-curvature-in-space.html</link>
+        <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/2015/09/01/04-arc-length-and-curvature-in-space.html</guid>
+        
+        <category>arc length</category>
+        
+        <category>curvature</category>
+        
+        <category>motion in space</category>
+        
+        
+        <category>calculate motion in space</category>
+        
+      </item>
+    
+      <item>
+        <title>Vector Functions and their Derivatives and Integrals</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/vector-functions.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
+        <link>/2015M217/calculate%20motion%20in%20space/2015/09/01/03-vector-functions-derivatives-integrals.html</link>
+        <guid isPermaLink="true">/2015M217/calculate%20motion%20in%20space/2015/09/01/03-vector-functions-derivatives-integrals.html</guid>
+        
+        <category>vectors</category>
+        
+        
+        <category>calculate motion in space</category>
+        
+      </item>
+    
+      <item>
+        <title>Cylinders and Quadric Surfaces</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/cylinders-quadratic-surfaces.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
+        <link>/2015M217/visualize%20surfaces/understand%20space/2015/09/01/02-cylinders-and-quadric-surfaces.html</link>
+        <guid isPermaLink="true">/2015M217/visualize%20surfaces/understand%20space/2015/09/01/02-cylinders-and-quadric-surfaces.html</guid>
+        
+        <category>cylinders</category>
+        
+        <category>surfaces</category>
+        
+        
+        <category>visualize surfaces</category>
+        
+        <category>understand space</category>
+        
+      </item>
+    
+      <item>
+        <title>Vectors in Space</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/vectors-in-space.ipynb&quot;&gt;notebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
+        <link>/2015M217/understand%20space/2015/09/01/01-vectors-in-space.html</link>
+        <guid isPermaLink="true">/2015M217/understand%20space/2015/09/01/01-vectors-in-space.html</guid>
+        
+        <category>vectors</category>
+        
+        <category>motion in space</category>
+        
+        <category>curves in space</category>
+        
+        <category>dot product</category>
+        
+        <category>cross product</category>
+        
+        
+        <category>understand space</category>
         
       </item>
     
