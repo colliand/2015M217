@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cylinders and Quadric Surfaces"
-date:   2015-09-10
+date:   2015-09-12
 tags: [cylinders, surfaces]
 categories: [visualize surfaces, understand space] 
 ---
