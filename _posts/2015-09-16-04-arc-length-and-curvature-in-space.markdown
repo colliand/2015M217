@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arc Length, Curvature, Motion in Space"
-date:   2015-09-01
+date:   2015-09-16
 categories: [calculate motion in space]
 tags: [arc length, curvature, motion in space]
 comments : false
