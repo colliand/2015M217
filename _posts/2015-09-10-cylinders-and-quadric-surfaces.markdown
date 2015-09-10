@@ -6,4 +6,4 @@ tags: [cylinders, surfaces]
 categories: [visualize surfaces, understand space] 
 ---
 
-[notebook](http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/cylinders-quadratic-surfaces.ipynb)
+[notebook](http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/02-cylinders-quadratic-surfaces.ipynb)

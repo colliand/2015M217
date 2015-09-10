@@ -7,4 +7,4 @@ tags: vectors
 comments: false
 ---
 
-[notebook](http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/vector-functions.ipynb)
+[notebook](http://nbviewer.jupyter.org/github/colliand/2015M217/blob/gh-pages/notebooks/03-vector-functions.ipynb)
