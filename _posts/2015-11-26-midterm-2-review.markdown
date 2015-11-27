@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Line Integrals of Vector Fields"
+title:  "Concept Review before Midterm 2"
 date:   2015-11-26
 categories: [study for midterm]
 tags: [vector field, line integral, divergence theorem, stokes theorem, green's theorem]
